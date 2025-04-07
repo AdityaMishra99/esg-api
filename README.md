@@ -7,8 +7,3 @@ This project uses a trained ML model to predict ESG-based investment performance
 ```bash
 pip install -r requirements.txt
 uvicorn esg_api:app --reload
-
----
-
-### 🔖 Tags
-#FastAPI #MachineLearningAPI #ESGAnalysis #Python #OpenSource #Finance #ESG #MLModelDeployment #AdityaMishra
